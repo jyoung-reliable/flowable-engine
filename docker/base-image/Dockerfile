@@ -1,4 +1,4 @@
-FROM azul/zulu-openjdk-alpine:17.0.9-jre
+FROM azul/zulu-openjdk-alpine:17.0.15-jre
 LABEL maintainer="Flowable <info@flowable.org>"
 RUN apk add --no-cache ttf-dejavu && rm -rf /var/cache/apk/*
 
