@@ -21,7 +21,7 @@
 		<spring.kafka.version>3.3.6</spring.kafka.version>
 		<spring.ldap.version>3.3.0</spring.ldap.version>
 		<reactor-netty.version>1.2.6</reactor-netty.version>
-		<jackson.version>2.19.0</jackson.version>
+		<jackson.version>2.19.1</jackson.version>
 		<jakarta-jms.version>3.1.0</jakarta-jms.version>
         <camel.version>4.8.0</camel.version>
 		<cxf.version>4.0.5</cxf.version>
